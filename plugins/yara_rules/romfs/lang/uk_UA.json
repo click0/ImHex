@@ -1,0 +1,23 @@
+{
+    "code": "uk-UA",
+    "country": "Ukraine",
+    "language": "Ukrainian",
+    "fallback": false,
+    "translations": {
+        "hex.yara.information_section.advanced_data_info": "Розширена інформація про дані",
+        "hex.yara.information_section.advanced_data_info.no_information": "Більше інформації не знайдено",
+        "hex.yara_rules.view.yara.error": "Помилка компілятора Yara: {0}",
+        "hex.yara_rules.view.yara.header.matches": "Збігається",
+        "hex.yara_rules.view.yara.header.rules": "Правила",
+        "hex.yara_rules.view.yara.match": "Збігається правил",
+        "hex.yara_rules.view.yara.matches.identifier": "Ідентифікатор",
+        "hex.yara_rules.view.yara.matches.variable": "Змінна",
+        "hex.yara_rules.view.yara.matching": "Підбирання...",
+        "hex.yara_rules.view.yara.name": "Правила Yara",
+        "hex.yara_rules.view.yara.no_rules": "Правил YARA не знайдено. Помістіть їх у папку 'yara' ImHex",
+        "hex.yara_rules.view.yara.reload": "Перезавантажити",
+        "hex.yara_rules.view.yara.reset": "Скинути",
+        "hex.yara_rules.view.yara.rule_added": "Додано правило Yara!",
+        "hex.yara_rules.view.yara.whole_data": "Весь файл збігається!"
+    }
+}

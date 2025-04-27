@@ -1,0 +1,13 @@
+{
+    "code": "uk-UA",
+    "country": "Ukraine",
+    "language": "Ukrainian",
+    "fallback": false,
+    "translations": {
+        "hex.script_loader.menu.run_script": "Запустити сценарій...",
+        "hex.script_loader.menu.loading": "Завантаження...",
+        "hex.script_loader.menu.no_scripts": "Не знайдено сценаріїв",
+        "hex.script_loader.task.updating": "Оновлення сценаріїв...",
+        "hex.script_loader.task.running": "Виконується сценарій..."
+    }
+}

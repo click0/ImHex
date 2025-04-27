@@ -1,0 +1,30 @@
+{
+    "code": "uk-UA",
+    "country": "Ukraine",
+    "language": "Ukrainian",
+    "fallback": false,
+    "translations": {
+        "hex.builtin.setting.general.context_menu_entry": "Пункт контекстного меню Windows",
+        "hex.builtin.setting.interface.show_resource_usage": "Показати використання ресурсів у нижньому колонтитулі",
+        "hex.windows.view.tty_console.auto_scroll": "Автоматична прокрутка",
+        "hex.windows.view.tty_console.baud": "Швидкість передачі даних",
+        "hex.windows.view.tty_console.clear": "Очистити",
+        "hex.windows.view.tty_console.config": "Конфігурація",
+        "hex.windows.view.tty_console.connect": "Підключитися",
+        "hex.windows.view.tty_console.connect_error": "Не вдалося підключитися до COM-порту!",
+        "hex.windows.view.tty_console.console": "Консоль",
+        "hex.windows.view.tty_console.cts": "Використовуйте керування потоком CTS",
+        "hex.windows.view.tty_console.disconnect": "Відключити",
+        "hex.windows.view.tty_console.name": "Консоль TTY",
+        "hex.windows.view.tty_console.no_available_port": "Не вибрано дійсний COM-порт або немає доступного COM-порту!",
+        "hex.windows.view.tty_console.num_bits": "Біти даних",
+        "hex.windows.view.tty_console.parity_bits": "Біт парності",
+        "hex.windows.view.tty_console.port": "Порт",
+        "hex.windows.view.tty_console.reload": "Перезавантажити",
+        "hex.windows.view.tty_console.send_eot": "Надіслати EOT",
+        "hex.windows.view.tty_console.send_etx": "Надіслати ETX",
+        "hex.windows.view.tty_console.send_sub": "Надіслати SUB",
+        "hex.windows.view.tty_console.stop_bits": "Стоп-біти",
+        "hex.windows.view.tty_console.task.transmitting": "Передача даних..."
+    }
+}

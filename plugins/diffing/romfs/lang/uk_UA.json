@@ -1,0 +1,23 @@
+{
+    "code": "uk-UA",
+    "country": "Ukraine",
+    "language": "Ukrainian",
+    "fallback": false,
+    "translations": {
+        "hex.diffing.algorithm.simple.name": "Простий побайтовий алгоритм",
+        "hex.diffing.algorithm.simple.description": "Наївне O(N) побайтове порівняння.\nМожна ідентифікувати лише зміни байтів і вставки/видалення в кінці даних",
+        "hex.diffing.algorithm.myers.name": "Біт-векторний алгоритм Майєрса",
+        "hex.diffing.algorithm.myers.description": "Інтелектуальний алгоритм розрізнення O(N*M). Може ідентифікувати зміни, вставки та видалення будь-де в даних",
+        "hex.diffing.algorithm.myers.settings.window_size": "Розмір вікна",
+        "hex.diffing.view.diff.name": "Різниця",
+        "hex.diffing.view.diff.added": "Додано",
+        "hex.diffing.view.diff.modified": "Змінено",
+        "hex.diffing.view.diff.provider_a": "Джерело А",
+        "hex.diffing.view.diff.provider_b": "Джерело Б",
+        "hex.diffing.view.diff.removed": "Видалено",
+        "hex.diffing.view.diff.algorithm": "Алгоритм розрізнення",
+        "hex.diffing.view.diff.settings": "Немає доступних налаштувань",
+        "hex.diffing.view.diff.settings.no_settings": "Немає доступних налаштувань",
+        "hex.diffing.view.diff.task.diffing": "Розрізняємо дані..."
+    }
+}

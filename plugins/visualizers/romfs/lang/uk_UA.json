@@ -1,0 +1,22 @@
+{
+    "code": "uk-UA",
+    "country": "Ukraine",
+    "language": "Ukrainian",
+    "fallback": false,
+    "translations": {
+        "hex.visualizers.pl_visualizer.3d.light_position": "Світла позиція",
+        "hex.visualizers.pl_visualizer.3d.ambient_brightness": "Навколишня яскравість",
+        "hex.visualizers.pl_visualizer.3d.diffuse_brightness": "Розсіяна яскравість",
+        "hex.visualizers.pl_visualizer.3d.specular_brightness": "Дзеркальна яскравість",
+        "hex.visualizers.pl_visualizer.3d.object_reflectiveness": "Відбивність об'єкта",
+        "hex.visualizers.pl_visualizer.3d.light_color": "Світлий колір",
+        "hex.visualizers.pl_visualizer.3d.more_settings": "Більше налаштувань",
+        "hex.visualizers.pl_visualizer.3d.texture_file": "Шлях до файлу текстури",
+        "hex.visualizers.pl_visualizer.coordinates.latitude": "Широта",
+        "hex.visualizers.pl_visualizer.coordinates.longitude": "Довгота",
+        "hex.visualizers.pl_visualizer.coordinates.query": "Знайти адресу",
+        "hex.visualizers.pl_visualizer.coordinates.querying": "Запит адреси...",
+        "hex.visualizers.pl_visualizer.coordinates.querying_no_address": "Адреси не знайдено",
+        "hex.visualizers.pl_visualizer.task.visualizing": "Візуалізація даних..."
+    }
+}
